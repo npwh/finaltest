@@ -1,1 +1,1 @@
-kuyyy update
+isas kuy
