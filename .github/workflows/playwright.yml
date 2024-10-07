@@ -39,4 +39,4 @@ jobs:
         run: |
           git push origin main
         env:
-          GITHUB_TOKEN: $ {{ secrets.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 }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN_NPWH }}
