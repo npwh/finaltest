@@ -30,7 +30,7 @@ jobs:
       - name: Update file
         run: |
           git add .
-          git commit -m "Automated update at$(data)"
+          git commit -m "Automated update at$(date)"
       - name: Push changes
         run: |
           git push origin main
