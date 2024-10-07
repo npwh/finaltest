@@ -1,9 +1,9 @@
 name: auuuuuuto update
 on:
-  push:
-    branches: [main, master]
-  pull_request:
-    branches: [main, master]
+  # push:
+  #   branches: [main, master]
+  # pull_request:
+  #   branches: [main, master]
   schedule:
     - cron: "*/1 * * * *"
 
