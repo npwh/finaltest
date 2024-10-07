@@ -1,4 +1,4 @@
-name: kuy update
+name: auto update
 on:
   push:
     branches: [main, master]
