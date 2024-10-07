@@ -1,1 +1,2 @@
-งง
+"Last update: $(date)" 
+ddsafd
