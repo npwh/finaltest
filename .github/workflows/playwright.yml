@@ -1,7 +1,7 @@
 name: auto update
 on:
   schedule:
-    - cron: "1 * * * *"
+    - cron: "*/1 * * * *"
   # push:
   #   branches: [ main, master ]
   # pull_request:
