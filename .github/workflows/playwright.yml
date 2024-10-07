@@ -31,9 +31,9 @@ jobs:
       - name: Update file
         run: |
           git add .
-          git config --global user.email "npwh.panuchat@gmail.com"
-          git config --global user.name "npwh"
-          git commit -m "Automated update"
+          # git config --global user.email "npwh.panuchat@gmail.com"
+          # git config --global user.name "npwh"
+          # git commit -m "Automated update"
       - name: Push changes
         run: |
           git push origin main
